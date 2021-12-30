@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/A-plan-coachin-UI-request/static/css/main.9cd2dc1e.css",
+    "main.js": "/A-plan-coachin-UI-request/static/js/main.1952bfed.js",
+    "static/js/787.d96c536f.chunk.js": "/A-plan-coachin-UI-request/static/js/787.d96c536f.chunk.js",
+    "index.html": "/A-plan-coachin-UI-request/index.html",
+    "main.9cd2dc1e.css.map": "/A-plan-coachin-UI-request/static/css/main.9cd2dc1e.css.map",
+    "main.1952bfed.js.map": "/A-plan-coachin-UI-request/static/js/main.1952bfed.js.map",
+    "787.d96c536f.chunk.js.map": "/A-plan-coachin-UI-request/static/js/787.d96c536f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd2dc1e.css",
+    "static/js/main.1952bfed.js"
+  ]
+}
